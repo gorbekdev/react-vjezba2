@@ -1,4 +1,5 @@
-import {PrvaKompa, DrugaKompa, TrecaKompa, CetvrtaKompa, PetaKompa} from './components'
+import './App.css';
+import { PrvaKompa, DrugaKompa, TrecaKompa, CetvrtaKompa, PetaKompa } from './components'
 
 function App() {
   return (
